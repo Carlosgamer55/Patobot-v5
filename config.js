@@ -1,7 +1,7 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["50230352928@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '50230352928' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
@@ -10,7 +10,7 @@ const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 const cr = '℘ąɬơ ცơɬ ۷5\n' 
 // texto del menu
 
-const prefix = '!' 
+const prefix = '*' 
 // prefixo
 
 const blockedmsg = '*Tu número esta baneado con el bot😘*'
@@ -19,7 +19,7 @@ const blockedmsg = '*Tu número esta baneado con el bot😘*'
 const blockedcmdmsg = '*Este comando está bloqueado🚫*'
 // mensagem quando alguem solicita um comando bloqueado 
 
-// MENSAGENS DE BAN
+// MENSAGES DE BAN
 
 const banmsgtype = '*Corre miembro del grupo, tu ban esta cerca*'
 // mensagem de ban no anti tipos de mensagem
@@ -52,7 +52,7 @@ const qnttravahardroleta = 2
 // MENSAGENS DE BOM DIA BOA TARDE E BOA NOITE
 
 const linkimgday = 'https://i.imgur.com/RR18JiI.jpg'
-const textmsgday = 'Wenos días guap@ 👉👈'
+const textmsgday = 'Wenos días guapa 👉👈'
 // link e mensagem de bom dia
 
 const linkimgeve = 'https://i.ibb.co/bLXgcBW/lp-tarde-anime-by-hitsukinyan-db7fpqr-fullview.jpg'
@@ -72,7 +72,7 @@ const msgerr = 'Lo siento ocurrio un error intentalo nuevamente'
 
 const botlindo = 'Gracias'
 const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
-const botfeio = 'Calla cara de culo 😡'
+const botfeio = 'Calla cara de mi pito 😡'
 const cadebot = 'Me llamó onii-chan 👉👈?'
 const botfdp = 'Calla cagada'
 const botgostoso = 'Ojo 😳👉👈'
@@ -96,7 +96,7 @@ let mess = {
     wait: '⌛ Aguanta we⌛',
     success: '✔️ Con exito ✔️',
     error: {
-        stick: '❌ No se pudo convertir a sticker ❌',
+        stick: '❌ Chale no se pudo ❌',
         Iv: '❌ Link inválido ❌'
     },
     only: {
