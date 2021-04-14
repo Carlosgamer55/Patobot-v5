@@ -1,7 +1,7 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["50230352928@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '50230352928' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
@@ -10,24 +10,24 @@ const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 const cr = '℘ąɬơ ცơɬ ۷5\n' 
 // texto del menu
 
-const prefix = '!' 
+const prefix = '*' 
 // prefixo
 
 const blockedmsg = '*Tu número esta baneado con el bot😘*'
 // mensagem quando alguem bloqueado solicita um comando
 
-const blockedcmdmsg = '*Este comando está bloqueado🚫*'
+const blockedcmdmsg = '*Este comando está bloqueado para simples mortales como tu🚫*'
 // mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corre miembro del grupo, tu ban esta cerca*'
+const banmsgtype = '*Corre puta, tu ban esta cerca*'
 // mensagem de ban no anti tipos de mensagem
 
 const adminmsgtype = '*Eres admin te salvaste*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
-const banmsgporn = '*Pajero* ...'
+const banmsgporn = '*Pajin* ...'
 // mensagem de ban no antiporn
 
 const adminmsgporn = '*Vaya vaya un admin pajero*'
@@ -70,18 +70,18 @@ const msgerr = 'Lo siento ocurrio un error intentalo nuevamente'
 
 // MENSAGENS DE AUTOREPLY
 
-const botlindo = 'Gracias'
+const botlindo = 'sisoi'
 const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
-const botfeio = 'Calla cara de culo 😡'
+const botfeio = 'Calla cara de mi pito 😡'
 const cadebot = 'Me llamó onii-chan 👉👈?'
-const botfdp = 'Calla cagada'
+const botfdp = 'Calla incha del river'
 const botgostoso = 'Ojo 😳👉👈'
 const botfofo = 'Ojo 😳👉👈'
 const botbaianor = 'La tuya'
-const botcorno = 'Come verga'
+const botcorno = 'Comemela'
 const botputa = 'Señora tu madre 😡'
 const botgay = 'Calla mongolo 😡'
-const botviado = 'Calla pvto 😡'
+const botviado = 'Calla pto 😡'
 const numbotfeio = 'dama tu madre 😡'
 // KEYS
 
@@ -93,18 +93,18 @@ const apiTobz = 'key'
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '⌛ Aguanta we⌛',
-    success: '✔️ Con exito ✔️',
+    wait: '⌛ shh perate we ⌛',
+    success: '✔️ Awebo ✔️',
     error: {
-        stick: '❌ No se pudo convertir a sticker ❌',
+        stick: '❌ No se pudo, aver estudiado ❌',
         Iv: '❌ Link inválido ❌'
     },
     only: {
-        group: '❌ Este comando solo puede ser usado en grupos! ❌',
+        group: '❌ Este comando solo es para grupos! ❌',
         ownerG: '❌ Este comando solo puede ser usado por el dueño del grupo! ❌',
         ownerB: '❌ Este comando solo puede ser usado por el dueño del bot! ❌',
-        admin: '❌ Calla miembro no pudes usar este comando, solo es para admin facheros ❌',
-        Badmin: '❌ Solo pude ser usado cuando el bot es admin ❌'
+        admin: '❌ Calla simple mortal, este comando solo es  para admins ❌',
+        Badmin: '❌ Ni pedo me das admin o no se puede ❌'
     }
 }
 
