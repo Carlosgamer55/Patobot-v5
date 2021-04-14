@@ -1,7 +1,7 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["50230352928@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '7906331-28-57' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
@@ -10,7 +10,7 @@ const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 const cr = '℘ąɬơ ცơɬ ۷5\n' 
 // texto del menu
 
-const prefix = '!' 
+const prefix = '*' 
 // prefixo
 
 const blockedmsg = '*Tu número esta baneado con el bot😘*'
@@ -49,10 +49,10 @@ const qnttravahardroleta = 2
 // quantidade de travas que mandam no roleta russa hard
 // Obs: O valor é multiplicado por 12 ent tenha cuidado
 
-// MENSAGENS DE BOM DIA BOA TARDE E BOA NOITE
+// MENSAGES DE BUENOS DIAS 
 
 const linkimgday = 'https://i.imgur.com/RR18JiI.jpg'
-const textmsgday = 'Wenos días guap@ 👉👈'
+const textmsgday = 'Wenos días guapa 👉👈'
 // link e mensagem de bom dia
 
 const linkimgeve = 'https://i.ibb.co/bLXgcBW/lp-tarde-anime-by-hitsukinyan-db7fpqr-fullview.jpg'
