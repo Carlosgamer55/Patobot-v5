@@ -1,7 +1,7 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["50230352928@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '30352928' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
@@ -63,7 +63,7 @@ const linkimgnig = 'https://i.ibb.co/VJCd34F/EKvo372-X0-AEd-Hz.jpg'
 const textmsgnig = 'Que tengas un buen dia '
 // link e mensagem de boa noite 
 
-// MENSAGENS DE ERRO
+// MENSAGENS DE ERROR
 
 const msgerr = 'Lo siento ocurrio un error intentalo nuevamente'
 // mensagem de erro
@@ -159,4 +159,4 @@ exports.prefix = prefix
 exports.cr = cr
 exports.vcard = vcard
 exports.OriginalOwner = OriginalOwner
-exports.ownerNumber = ownerNumber
+exports.ownerNumber = De
