@@ -289,20 +289,6 @@ return `┏━ P̵̘̘͙͒̓͐a̴͚͍̻͑͒T̸͇̪̠̾́͘o̸̪̪̦͆͑͝ B̴͝�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-PTO EL QUE LO LEA
-
-
 exports.help = help
 
 
