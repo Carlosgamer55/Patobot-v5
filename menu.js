@@ -19,7 +19,6 @@ return `┏━ P̵̘̘͙͒̓͐a̴͚͍̻͑͒T̸͇̪̠̾́͘o̸̪̪̦͆͑͝ B̴͝�
 ║      
 ║♆➤ *${p}menu
 ║♆➤ *${p}help
-║♆➤ *${p}?
 ╰═┅𝄣══════════❖══════════𝄣┅═╯
 
 
@@ -39,7 +38,7 @@ return `┏━ P̵̘̘͙͒̓͐a̴͚͍̻͑͒T̸͇̪̠̾́͘o̸̪̪̦͆͑͝ B̴͝�
 ║♆➤ *${p}fsticker* ❮caption, reply img❯
 ╰═┅𝄣═════════════════❖═════════════════𝄣┅═╯
 
-╭═┅-〘     〙-═╮
+╭═┅-〘  Admin   〙-═╮
 ║
 ║
 ║
@@ -50,14 +49,44 @@ return `┏━ P̵̘̘͙͒̓͐a̴͚͍̻͑͒T̸͇̪̠̾́͘o̸̪̪̦͆͑͝ B̴͝�
 ║
 ╰═┅𝄣═════❖═════𝄣┅═╯
 
-╭═┅-〘     〙-═╮
-║
-║
-║
-║
-║
-║
-║
+╭═┅-〘  Juegos   〙-═╮
+║♆➤ *${p}fuckmylife*
+║♆➤ *${p}biblia*
+║♆➤ *${p}gtts* ❮la❯ ❮txt❯
+║♆➤ *${p}attp* ❮txt❯
+♆➤ *${p}shadow* ❮txt❯
+♆➤ *${p}fakeidentity*
+♆➤ *${p}txtcmd*
+
+║♆➤ *${p}wait* ❮caption, reply video❯
+♆➤ *${p}txtomorse* ❮txt❯
+♆➤ *${p}morsetotxt* ❮txt❯
+♆➤ *${p}ebinary* ❮txt❯
+♆➤ *${p}dbinary* ❮txt❯
+♆➤ *${p}cassino*
+♆➤ *${p}ship* ❮num1❯ ❮num2❯
+♆➤ *${p}corno* ❮num1❯
+♆➤ *${p}nazista* ❮num1❯
+♆➤ *${p}comunista* ❮num1❯
+♆➤ *${p}dado*
+║♆➤ *${p}rankgay*
+♆➤ *${p}gay* ❮num1❯
+
+♆➤ *${p}gpessoa*
+♆➤ *${p}gendereco*
+♆➤ *${p}gcnh*
+♆➤ *${p}geleitortitulo*
+♆➤ *${p}gbanco*
+♆➤ *${p}gcarro*
+♆➤ *${p}gpass* ❮letter qnt❯
+♆➤ *${p}cpf*
+♆➤ *${p}ddd* ❮ddd❯
+♆➤ *${p}cep* ❮cep❯
+♆➤ *${p}gerarcc*
+♆➤ *${p}gprocesso*
+♆➤ *${p}gerarcc*
+♆➤ *${p}gcarro*
+♆➤ *${p}macaco*
 ║
 ╰═┅𝄣═════❖═════𝄣┅═╯
 
@@ -83,157 +112,54 @@ return `┏━ P̵̘̘͙͒̓͐a̴͚͍̻͑͒T̸͇̪̠̾́͘o̸̪̪̦͆͑͝ B̴͝�
 ║
 ╰═┅𝄣═════❖═════𝄣┅═╯
 
-╭═┅-〘     〙-═╮
-║
-║
-║
-║
-║
-║
-║
-║
-╰═┅𝄣═════❖═════𝄣┅═╯
-
-╭═┅-〘     〙-═╮
-║
-║
-║
-║
-║
-║
-║
-║
-╰═┅𝄣═════❖═════𝄣┅═╯
-
-╭═┅-〘     〙-═╮
-║
-║
-║
-║
-║
-║
-║
-║
-╰═┅𝄣═════❖═════𝄣┅═╯
-
-╭═┅-〘     〙-═╮
-║
-║
-║
-║
-║
-║
-║
-║
-╰═┅𝄣═════❖═════𝄣┅═╯
-
-╭═┅-〘     〙-═╮
-║
-║
-║
-║
-║
-║
-║
-║
-╰═┅𝄣═════❖═════𝄣┅═╯
-
-╭═┅-〘     〙-═╮
-║
-║
-║
-║
-║
-║
-║
-║
-╰═┅𝄣═════❖═════𝄣┅═╯
-
-
-♆➤ *${p}listblockcmd*
-♆➤ *${p}listpalavra*
-♆➤ *${p}ping*
-♆➤ *${p}sugerircmd* ❮text❯
-♆➤ *${p}terbot*
-♆➤ *${p}blocklist*
-♆➤ *${p}blacklist*
-♆➤ *${p}roletarussahard*
-♆➤ *${p}roletarussamed*
-♆➤ *${p}roletarussaeasy*
-♆➤ *${p}roletarussapac*
-♆➤ *${p}mob*
-♆➤ *${p}minecraft*
-♆➤ *${p}infocovid*
-♆➤ *${p}covidmundo*
-♆➤ *${p}foxnews*
-♆➤ *${p}lofi*
-♆➤ *${p}boy*
-♆➤ *${p}girl*
-♆➤ *${p}egirl*
-♆➤ *${p}eboy*
-♆➤ *${p}pinterest* ❮name❯
-♆➤ *${p}wallpaper*
-♆➤ *${p}fuckmylife*
-♆➤ *${p}waifu*
-♆➤ *${p}belle*
-♆➤ *${p}saycat*
-♆➤ *${p}biblia*
-♆➤ *${p}animesrc* ❮name anime❯
-♆➤ *${p}mangasrc* ❮name anime❯
-♆➤ *${p}playstore* ❮name app❯
-♆➤ *${p}happymod* ❮name app❯
-♆➤ *${p}pokemon*
-♆➤ *${p}signome* ❮name❯
-♆➤ *${p}gimage* ❮name❯
-♆➤ *${p}packmega18*
-♆➤ *${p}checkporn* ❮reply img❯
-♆➤ *${p}nhentai* ❮code❯
-♆➤ *${p}randomhentai*
-♆➤ *${p}nsfwblowjob*
-♆➤ *${p}nsfwneko*
-♆➤ *${p}nsfwtrap*
-♆➤ *${p}nsfw* ❮1 or 0❯
-♆➤ *${p}gtts* ❮la❯ ❮txt❯
-♆➤ *${p}playlist*
-♆➤ *${p}lyrics*
-♆➤ *${p}ptlyrics*
-♆➤ *${p}play* ❮music name❯
-♆➤ *${p}playv2* ❮music name❯
-♆➤ *${p}tomp3* ❮caption, reply video❯
-♆➤ *${p}ytsearch* ❮name❯
-♆➤ *${p}ytmp4* ❮yt url❯
-♆➤ *${p}ytmp3* ❮yt url❯
-♆➤ *${p}gpessoa*
-♆➤ *${p}gendereco*
-♆➤ *${p}gcnh*
-♆➤ *${p}geleitortitulo*
-♆➤ *${p}gbanco*
-♆➤ *${p}gcarro*
-♆➤ *${p}gpass* ❮letter qnt❯
-♆➤ *${p}cpf*
-♆➤ *${p}ddd* ❮ddd❯
-♆➤ *${p}cep* ❮cep❯
-♆➤ *${p}gerarcc*
-♆➤ *${p}gprocesso*
-♆➤ *${p}gerarcc*
-♆➤ *${p}gcarro*
-♆➤ *${p}macaco*
-♆➤ *${p}flowerlogo* ❮txt❯
-♆➤ *${p}matrixlogo* ❮txt❯
-♆➤ *${p}narutologo* ❮txt❯
-♆➤ *${p}phlogo* ❮t1❯ | ❮t2❯
-♆➤ *${p}mineconquista* ❮t1❯ | ❮t2❯
-♆➤ *${p}attp* ❮txt❯
-♆➤ *${p}shadow* ❮txt❯
-♆➤ *${p}fakeidentity*
-♆➤ *${p}txtcmd*
-♆➤ *${p}installbot*
+╭═┅-〘 Funciones 〙-═╮
+║♆➤ *${p}wame*
 ♆➤ *${p}traduz* ❮la❯ ❮txt❯
-♆➤ *${p}wame*
-♆➤ *${p}repeat* ❮txt❯
-♆➤ *${p}ocr* ❮caption, reply video❯
-♆➤ *${p}glitch* ❮t1❯ | ❮t2❯
-♆➤ *${p}ravetxt* ❮t1❯ | ❮t2❯
+║♆➤ *${p}repeat* ❮txt❯
+║
+║
+║
+║
+║
+╰═┅𝄣═════❖═════𝄣┅═╯
+
+╭═┅-〘 Descargas/musica 〙-═╮
+║♆➤ *${p}playlist*
+║♆➤ *${p}lyrics*
+║♆➤ *${p}ptlyrics*
+║♆➤ *${p}play* ❮music name❯
+║♆➤ *${p}playv2* ❮music name❯
+║♆➤ *${p}tomp3* ❮caption, reply video❯
+║♆➤ *${p}ytsearch* ❮name❯
+║♆➤ *${p}ytmp4* ❮yt url❯
+║♆➤ *${p}ytmp3* ❮yt url❯
+╰═┅𝄣═════❖═════𝄣┅═╯
+
+╭═┅-〘   Anime   〙-═╮
+║♆➤ *${p}waifu*
+║ ♆➤ *${p}belle*
+║ ♆➤ *${p}saycat*
+║♆➤ *${p}animesrc* ❮name anime❯
+║♆➤ *${p}pokemon*
+║♆➤ *${p}randomanime*
+║♆➤ *${p}randomshota*
+║♆➤ *${p}randomkiss*
+║♆➤ *${p}randomcry*
+║♆➤ *${p}randomhug*
+║♆➤ *${p}nekoanime*
+ ♆➤ *${p}nsfwneko*
+ ♆➤ *${p}nsfwblowjob*
+ ♆➤ *${p}nsfwtrap*
+╰═┅𝄣═════❖═════𝄣┅═╯
+╭═┅-〘  Anime +18 〙-═╮
+║♆➤ *${p}nhentai* ❮code❯
+║ ♆➤ *${p}randomhentai*
+╰═┅𝄣══════❖══════𝄣┅═╯
+
+╭═┅-〘  Imajenes   〙-═╮
+║
+║♆➤ *${p}wallpaper*
+║♆➤ *${p}ravetxt* ❮t1❯ | ❮t2❯
 ♆➤ *${p}woodtxt* ❮t1❯ | ❮t2❯
 ♆➤ *${p}neon* ❮t1❯ | ❮t2❯
 ♆➤ *${p}sunset* ❮t1❯ | ❮t2❯
@@ -245,27 +171,92 @@ return `┏━ P̵̘̘͙͒̓͐a̴͚͍̻͑͒T̸͇̪̠̾́͘o̸̪̪̦͆͑͝ B̴͝�
 ♆➤ *${p}whatis* ❮txt❯
 ♆➤ *${p}txt3d* ❮txt❯
 ♆➤ *${p}nethunter*
+║♆➤ *${p}flowerlogo* ❮txt❯
+♆➤ *${p}matrixlogo* ❮txt❯
+♆➤ *${p}narutologo* ❮txt❯
+♆➤ *${p}phlogo* ❮t1❯ | ❮t2❯
+♆➤ *${p}mineconquista* ❮t1❯ | ❮t2❯
+
+║
+║
+║
+║
+╰═┅𝄣═════❖═════𝄣┅═╯
+
+╭═┅-〘 Busqueda de google 〙-═╮
+║♆➤ *${p}meme*
+║ ♆➤ *${p}memeindo*
+║ ♆➤ *${p}darkjokes*
+║♆➤ *${p}mob*
+║ ♆➤ *${p}minecraft*
+║ ♆➤ *${p}infocovid*
+║ ♆➤ *${p}covidmundo*
+║ ♆➤ *${p}foxnews*
+║ ♆➤ *${p}lofi* 
+║ ♆➤ *${p}playstore* ❮name app❯
+║ ♆➤ *${p}happymod* ❮name app❯
+╰═┅𝄣═══════════❖═══════════𝄣┅═╯
+╭═┅-〘 Busqueda de google 2 〙-═╮
+║ ♆➤ *${p}boy*
+║ ♆➤ *${p}girl*
+║ ♆➤ *${p}egirl*
+║ ♆➤ *${p}eboy*
+║ ♆➤ *${p}pinterest* ❮name❯
+╰═┅𝄣═══════════❖═══════════𝄣┅═╯
+
+╭═┅-〘 Ajustes de bot    〙-═╮
+║♆➤ *${p}ping*
+║♆➤ *${p}blocklist*
+║♆➤ *${p}blacklist*
+║♆➤ *${p}roletarussahard*
+║♆➤ *${p}roletarussamed*
+║♆➤ *${p}roletarussaeasy*
+║♆➤ *${p}roletarussapac
+║♆➤ *${p}block* ❮num❯
+║♆➤ *${p}unblock* ❮num❯
+║♆➤ *${p}listblockcmd*
+║♆➤ *${p}listpalavra*
+ ♆➤ *${p}nsfw* ❮1 or 0❯
+♆➤ *${p}listblockcmd*
+♆➤ *${p}listpalavra*
+♆➤ *${p}sugerircmd* ❮text❯
+♆➤ *${p}terbot*
+╰═┅𝄣═════════❖═════════𝄣┅═╯
+
+
+
+
+
+*
+
+
+
+
+♆➤ *${p}mangasrc* ❮name anime❯
+
+
+
+♆➤ *${p}signome* ❮name❯
+♆➤ *${p}gimage* ❮name❯
+♆➤ *${p}packmega18*
+♆➤ *${p}checkporn* ❮reply img❯
+
+
+
+
+
+
+
+
+♆➤ *${p}ocr* ❮caption, reply video❯
+♆➤ *${p}glitch* ❮t1❯ | ❮t2❯
+
 ♆➤ *${p}idioma*
 ♆➤ *${p}frase*
 ♆➤ *${p}wppim*
 ♆➤ *${p}db*
-♆➤ *${p}randomanime*
-♆➤ *${p}randomshota*
-♆➤ *${p}randomkiss*
-♆➤ *${p}randomcry*
-♆➤ *${p}randomhug*
-♆➤ *${p}nekoanime*
-♆➤ *${p}wait* ❮caption, reply video❯
-♆➤ *${p}txtomorse* ❮txt❯
-♆➤ *${p}morsetotxt* ❮txt❯
-♆➤ *${p}ebinary* ❮txt❯
-♆➤ *${p}dbinary* ❮txt❯
-♆➤ *${p}cassino*
-♆➤ *${p}ship* ❮num1❯ ❮num2❯
-♆➤ *${p}corno* ❮num1❯
-♆➤ *${p}nazista* ❮num1❯
-♆➤ *${p}comunista* ❮num1❯
-♆➤ *${p}dado*
+
+
 ♆➤ *${p}ranklindo*
 ♆➤ *${p}rankfeio*
 ♆➤ *${p}rankgado*
@@ -274,8 +265,7 @@ return `┏━ P̵̘̘͙͒̓͐a̴͚͍̻͑͒T̸͇̪̠̾́͘o̸̪̪̦͆͑͝ B̴͝�
 ♆➤ *${p}rankqi*
 ♆➤ *${p}rankfofo*
 ♆➤ *${p}rankotaku*
-♆➤ *${p}rankgay*
-♆➤ *${p}gay* ❮num1❯
+
 ♆➤ *${p}qi* ❮num1❯
 ♆➤ *${p}seudia* ❮num1❯
 ♆➤ *${p}feio* ❮num1❯
@@ -354,11 +344,8 @@ return `┏━ P̵̘̘͙͒̓͐a̴͚͍̻͑͒T̸͇̪̠̾́͘o̸̪̪̦͆͑͝ B̴͝�
 ♆➤ *${p}ataque* ❮txt❯
 ♆➤ *${p}divulgar* ❮txt❯
 ♆➤ *${p}entrargp* ❮txt❯
-♆➤ *${p}block* ❮num❯
-♆➤ *${p}unblock* ❮num❯
-♆➤ *${p}meme*
-♆➤ *${p}memeindo*
-♆➤ *${p}darkjokes*
+
+
 ♆➤ *${p}dolarhoje*
 ♆➤ *${p}rublohoje*
 ♆➤ *${p}ienehoje*
