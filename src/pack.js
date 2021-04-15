@@ -1,4 +1,4 @@
 const pack = (date, user, wame) => {
-return ` Que buscabas pornero ve mejor al internet pajin`
+return ` Que haces con tu vida?`
 }
 exports.pack = pack
